@@ -1,0 +1,5 @@
+2022.05  
+- aws 공부
+- aws ec2 직접 만들고 프로젝트 띄워보기
+- aws에 docker 연동
+- Dockerfile과 docker-compose 로 작성 
